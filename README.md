@@ -1,4 +1,6 @@
-## first demo project
+## 
+first demo project
+author - Nitesh
 
 <!--
 **nalotine/nalotine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
